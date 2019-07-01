@@ -8,52 +8,66 @@ Nokia X2 (Ara)
 
 
 E2M can be used on following models:
+------
 
-E2M Nokia 2.1
+Nokia 2.1 (E2M)
 
-EVW Nokia 2.1 Verizon Wireless
+Nokia 2V (EVW) 
 
 
 D1C can be used on following models:
+------
 
-ND1 Nokia 5
+Nokia 5 (ND1)
 
-D1C/PLE Nokia 6
-
-___
+Nokia 6 (D1C/PLE)
 
 EAG can be used on following models:
+------
 
-EAG Nokia 3.1 A and Nokia 3.1 C
+Nokia 3.1 A and Nokia 3.1 C (EAG) 
 
-RHD Nokia 3.1 Plus C
-
-___
+Nokia 3.1 Plus C (RHD) 
 
 NB1 can be used on following models:
+------
 
-NB1 - Nokia 8
+Nokia 8 (NB1) 
 
-A1N - Nokia 8 Sirocco
-
-___
+Nokia 8 Sirocco (A1N)
 
 B2N can be used on following models:
+------
 
-PL2 Nokia 6.1
+Nokia 6.1 (PL2)
 
-DRG Nokia 6.1 Plus X6
+Nokia 6.1 Plus X6 (DRG)
 
-TAS Nokia X71
+Nokia X71 (TAS)
 
-C1N Nokia 7
+Nokia 7 (C1N)
 
-CTL Nokia 7.1
+Nokia 7.1 (CTL)
 
-B2N Nokia 7 Plus
+Nokia 7 Plus (B2N)
 
-SS2/SAT Sharp Aquos S2
+Sharp Aquos S2 (SS2/SAT)
 
-HH1/HH6/SD1 Sharp Aquos S3
+Sharp Aquos S3 (HH1/HH6/SD1)
 
-SG1 Sharp Aquos S3mini
+Sharp Aquos S3mini (SG1)
+
+The following are MTK devices but i will be providing the Proprietary Download Agent File and Preloader file
+------
+
+Nokia 1 Plus (ANT)
+
+Nokia 5.1 (CO2)
+
+Nokia 3. (ES2)
+
+Nokia 1 (FRT)
+
+Nokia 5.1 Plus X5 (PDA)
+
+Nokia 3.1 Plus (ROO)
